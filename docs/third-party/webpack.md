@@ -63,7 +63,7 @@ Once the scripts are available and present in your project directory, the Webpac
       <script src="bundle.js" type="text/javascript" charset="utf-8"></script>
     </head>
     <body>
-      <input id="ddl" />
+      <input id="dropdownlist" />
     </body>
     </html>
 ```
